@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="testing-ci">
+    <Basepaths>/v2/testing-ci</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1557217536090</CreatedAt>
+    <CreatedBy>it.ravindrasingh+1@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>testing-ci</DisplayName>
+    <LastModifiedAt>1557217536090</LastModifiedAt>
+    <LastModifiedBy>it.ravindrasingh+1@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:23d3f03a06d83da05afba7a370901217bab5d52619e4d02eb018b952746937e60be152626bf87aea10faae9d777042ebbffff8d0204b6866d42d07cea775187e</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
